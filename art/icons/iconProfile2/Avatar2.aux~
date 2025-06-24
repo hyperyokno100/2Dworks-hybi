@@ -1,0 +1,33 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion ID="1" Modified="2025-06-24 15:15:06" VersionName="Avatar2">
+ <Element Name="bg" ID="1" Folder="bg">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="sketch" ID="2" Folder="sketch">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Head" ID="3" Folder="Head">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair" ID="4" Folder="Hair">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="backHair" ID="5" Folder="backHair">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Eyes" ID="6" Folder="Eyes">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Brows" ID="7" Folder="Brows">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Nose" ID="8" Folder="Nose">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Mouth" ID="9" Folder="Mouth">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="usrname" ID="12" Folder="usrname">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+</SceneVersion>
