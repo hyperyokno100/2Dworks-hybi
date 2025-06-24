@@ -1,0 +1,20 @@
+ToonBoomAnimationInc PaletteFile 2
+Solid    Black                      0x0ca134c65c30112c  55   0  14 255
+Solid    White                      0x0ca134c65c30112f 255 255 255 255
+Solid    Red                        0x0ca134c65c301132 255   0   0   0
+Solid    Green                      0x0ca134c65c301135   0 255   0 255
+Solid    Blue                       0x0ca134c65c301138   0   0 255 255
+Solid    "Vectorized Line"          0x0000000000000003   0   0   0 255
+Solid    "New 0"                    0x0ca139ad48f8f12e 145   0  30 255
+Solid    "New 1"                    0x0ca139ad48f9778e 245 200 155 255
+Solid    "New 2"                    0x0ca139ad48f98767 215   0  70 255
+Solid    "New 0"                    0x0ca16c7619b8519e 243 159 109 255
+Solid    "New 1"                    0x0ca16e51d3300b1e 231 140  90 255
+Solid    "New 2"                    0x0ca16e51d3323fe5 255 219 235 255
+Solid    "New 3"                    0x0ca16e51d3328870  71   0  26 255
+Gradient "New 4"                    0x0ca16e51d3341c5e Linear 
+{        0.0  82  82  82 255,
+       100.0   0   0   0 255 }
+Solid    "New 5"                    0x0ca16e51d33487c5  18  18  18 117
+Solid    "New 6"                    0x0ca16e51d3349b34  86  71  54  62
+Solid    "New 0"                    0x0ca1a31261e0bd26 174 255   0 255
