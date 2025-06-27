@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project source="Harmony Premium (HarmonyPremium.exe) version 22.0.2 build 21617 2023-06-12 08:19:32" version="2202" build="21617" creator="harmony">
+<project source="Harmony Premium (HarmonyPremium.exe) version 22.0.2 build 21617 2023-06-12 08:19:32" version="2202" build="21617" creator="hybi">
  <elements>
   <element id="1" elementName="Head" elementFolder="Head.1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
@@ -147,7 +147,7 @@
        <pt val="0.060424660042446496,-0.64452970711947266,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0CB6321BA44011B7" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0CB6D5D2ED80124A" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -264,7 +264,6 @@
      </module>
      <module type="PEG" name="Master-P-hy" pos="149,-325,6" publishUnderTab="Group-P">
       <options>
-       <locked val="true"/>
        <collapsed val="true"/>
        <version val="1"/>
       </options>
@@ -327,7 +326,6 @@
      </module>
      <group name="hyperyokno2" pos="133,-220,2">
       <options>
-       <locked val="true"/>
        <collapsed val="true"/>
        <subnodeCollapsed val="true"/>
        <showsPublished val="true"/>
@@ -336,7 +334,6 @@
       <nodeslist>
        <module type="MULTIPORT_IN" name="Input" pos="21,-205,8">
         <options>
-         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -346,7 +343,6 @@
        </module>
        <module type="MULTIPORT_OUT" name="Output" pos="8,172,9">
         <options>
-         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -356,7 +352,6 @@
        </module>
        <module type="READ" name="Hand2" pos="-196,0,6" publishUnderTab="Drawing_11">
         <options>
-         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -469,7 +464,6 @@
        </module>
        <module type="READ" name="Face2" pos="195,0,5" publishUnderTab="Drawing_10">
         <options>
-         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -582,7 +576,6 @@
        </module>
        <module type="READ" name="Hair2_2" pos="-198,-72,4" publishUnderTab="Drawing_9">
         <options>
-         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -695,7 +688,6 @@
        </module>
        <module type="READ" name="Hair_2" pos="9,-72,3" publishUnderTab="Drawing_8">
         <options>
-         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -808,7 +800,6 @@
        </module>
        <module type="READ" name="Head2" pos="16,0,1" publishUnderTab="Head">
         <options>
-         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -921,7 +912,6 @@
        </module>
        <module type="READ" name="backHair2" pos="184,-72,2" publishUnderTab="Drawing_2">
         <options>
-         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -1034,7 +1024,6 @@
        </module>
        <module type="COMPOSITE" name="Composite" pos="0,116,7" publishUnderTab="Composite">
         <options>
-         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -1879,7 +1868,6 @@
      </group>
      <module type="HIGHLIGHT" name="Highlight" pos="150,-119,5" publishUnderTab="Highlight">
       <options>
-       <locked val="true"/>
        <collapsed val="false"/>
        <version val="2"/>
       </options>
